@@ -3,7 +3,7 @@ export const TEAM_NAME = "The Blue Pirates TBP";
 export const MOTTO = "Sailing the Digital Seas, Exploiting the Unknown.";
 export const GITHUB_URL = "https://github.com/the-blue-pirates-tbp/";
 export const WRITEUPS_URL = "https://github.com/the-blue-pirates-tbp/writeups";
-export const CTFTIME_URL = "https://ctftime.org/team/352737";
+export const CTFTIME_URL = "https://ctftime.org/team/433433";
 export const APPLICATION_URL = "https://forms.gle/DZaY6buxgNDitUy56";
 
 export const MEMBERS = [
